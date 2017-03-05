@@ -1,0 +1,88 @@
+.head{
+	background-color: cadetblue;
+	}
+.logo{
+	color: #fff;
+	font-size: 40px;
+	font-weight: bold;
+	}
+.logo:hover{
+	color:#fff;
+	text-decoration:none;
+}
+.lbl{
+	color: #fff;
+	text-transform: capitalize;
+	font-weight: normal;
+	font-size: 12px;
+	}
+.mainBox {
+
+}
+.cus_input{
+border: 1px solid rgba(0, 0, 0, 0.7);
+border-radius: 0;
+box-shadow: 0 0 0 rgba(0, 0, 0, 0) inset;
+height: 24px;
+padding: 3px;
+}
+.cus_submit{
+	
+}
+.menu-logo{
+	padding-top: 8px;
+	}
+.button{
+	padding-top: 23px;
+	}
+.button-style{
+	background-color: #2d4f90;
+	border: 1px solid #183b7b;
+	border-radius: 4px;
+	color: #fff;
+	font-size: 12px;
+	padding: 4px;
+	height: 28px;
+	box-shadow: 0 0 0 rgba(0, 0, 0, 0) inset;
+	}
+.content{
+	background-color:wheat;
+	}
+.rightside{
+	
+}
+.cus_form{
+	float:right;
+}
+.info {
+  
+  padding-left: 16px;
+  padding-top: 20px;
+}
+.info h3 {
+  color: #1F3582;
+font-size: 23px;
+font-weight: bold;
+}
+.radio_style {
+  color: #1d2129;
+  font-weight: normal;
+  padding-right: 32px;
+  padding-left: 10px;
+}
+.tbox{
+float: left;
+margin-right: 2px;
+width: auto !important;
+}
+.extra {
+  font-size: 11px;
+  margin-left: 12px;
+}
+
+
+/*home page creare*/
+
+.bghead{
+	background-color:cadetblue;
+}

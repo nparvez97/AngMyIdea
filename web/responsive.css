@@ -1,0 +1,27 @@
+/* RESPONSIVE FOR phones DEVICE */
+
+@media (max-width:400px ) {
+.logo {
+  font-size: 30px;
+}
+.button {
+  padding-top: 5px;
+}
+
+/* RESPONSIVE FOR tablets DEVICE */
+	}
+@media (min-width:768px) and (max-width:991px) {
+.logo {
+  font-size: 30px;
+}
+.cus_log{
+	padding-top: 8px;
+}
+
+	}
+	
+/* RESPONSIVE FOR desktops DEVICE */	
+/*@media (min-width: @screen-md-min) and (max-width: @screen-md-max) { ... }
+
+/* RESPONSIVE FOR large desktops DEVICE 	
+@media (min-width: @screen-lg-min) { ... }*/
